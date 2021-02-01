@@ -1,0 +1,8 @@
+Collecting dlib
+  Using cached dlib-19.21.0.tar.gz (3.2 MB)
+Using legacy 'setup.py install' for dlib, since package 'wheel' is not installed.
+Installing collected packages: dlib
+    Running setup.py install for dlib: started
+    Running setup.py install for dlib: still running...
+    Running setup.py install for dlib: finished with status 'done'
+Successfully installed dlib-19.21.0
